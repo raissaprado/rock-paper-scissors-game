@@ -1,0 +1,11 @@
+@charset "UTF-8"
+/* CSS Document */
+
+/* Classes */
+.hidden {
+	display: none
+}
+
+#siteContainer {
+	padding: 15px;
+}
